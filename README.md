@@ -1,6 +1,7 @@
 # Digital-House-G3
 Trabalho 3
 
-Desenvolvimento do terciero trabalho do curso de Data Science da Digital House com foco em classificação.
+Desenvolvimento do terceiro trabalho do curso de Data Science da Digital House com foco em predição.
 
-Objetivo: Estabelecer uma classificação de detecção de positivo ou negativo para diabetes de acordo com os dados fornecidos. 
+Objetivo: Analisar e prever o efeito de uma campanha comercial de um produto efetuada por um banco para seus clientes, traçando o perfil dos clientes
+os tipos de tática de venda e o resultado de aceitação para cada perfil de clientes. 
